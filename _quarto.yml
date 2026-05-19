@@ -22,3 +22,6 @@ format:
   html: 
     theme: flatly
     toc: true
+    
+execute: 
+  freeze: auto
