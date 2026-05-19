@@ -5,6 +5,8 @@ format: html
 
 ## SORTEE Code Club
 
+[Code club](https://www.google.com/imgres?q=code%20club&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F06%2FCode_Club_logo.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCode_Club&docid=Tg64THRaWA7bFM&tbnid=KC936yBqQdk_dM&vet=12ahUKEwihqtT74MWUAxUXQ_EDHbEiIy8QnPAOegQIFBAB..i&w=200&h=200&hcb=2&ved=2ahUKEwihqtT74MWUAxUXQ_EDHbEiIy8QnPAOegQIFBAB)
+
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>
 
 ## Running Code
