@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "SORTEE Code Club is an online meeting where people come together to learn, share, and collaborate on coding-related topics in an informal and supportive environment. It’s not about being an experienced coder, it’s about open science, peer learning, and making coding more accessible, and most importantly reproducible for everyone."
+  },
+  {
+    "objectID": "about.html#what-is-sortee-code-club",
+    "href": "about.html#what-is-sortee-code-club",
+    "title": "About",
+    "section": "",
+    "text": "SORTEE Code Club is an online meeting where people come together to learn, share, and collaborate on coding-related topics in an informal and supportive environment. It’s not about being an experienced coder, it’s about open science, peer learning, and making coding more accessible, and most importantly reproducible for everyone."
+  },
+  {
+    "objectID": "about.html#why-code-club",
+    "href": "about.html#why-code-club",
+    "title": "About",
+    "section": "Why Code Club?",
+    "text": "Why Code Club?\nAt SORTEE we believe in transparency, reproducibility, collaboration and accessibility in research and coding is a big part of that!\nThe SORTEE Code Club is a place to:\nLearn and develop coding skills; Discuss and develop resources for code review, reproducibility, open workflows, and best practices; Share code-related issues and solutions; Connect with others who care about open and reproducible research. If you work with code, or if you would like to, and care for open science, this club is for you!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SORTEE Code Club",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org"
+  },
+  {
+    "objectID": "index.html#sortee-code-club",
+    "href": "index.html#sortee-code-club",
+    "title": "SORTEE Code Club",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org"
+  },
+  {
+    "objectID": "index.html#running-code",
+    "href": "index.html#running-code",
+    "title": "SORTEE Code Club",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
