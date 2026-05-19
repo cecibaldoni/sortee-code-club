@@ -1,0 +1,23 @@
+project: 
+  type: website
+  output-dir: _site
+  
+website: 
+  title: "SORTEE Code Club"
+  
+  navbar: 
+    left: 
+      - href: index.qmd
+        text: Home
+        
+    right: 
+      - icon: github
+        href: https://github.com/SORTEE
+        
+  page-footer: 
+    center: "Built with [Quarto](https://quarto.org/)"
+
+format: 
+  html: 
+    theme: flatly
+    toc: true
